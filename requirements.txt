@@ -1,0 +1,8 @@
+certifi==2018.1.18
+chardet==3.0.4
+coverage==4.4.2
+idna==2.6
+pyldap==2.4.37
+requests==2.18.4
+urllib3==1.22
+xlrd==1.1.0

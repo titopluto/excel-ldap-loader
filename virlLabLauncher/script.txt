@@ -1,0 +1,22 @@
+from src.virl import *
+studs = VirlLaunch("sept2017", "INWK6113-Config")
+studs.load_students()
+emails_list = get_email("sec_students.txt")
+studs.sanitize_students(emails_list)
+studs.start_sims()
+
+
+
+
+
+
+
+
+studs.load_students()
+emails_list = get_email("sec_students.txt")
+studs.sanitize_students(emails_list)
+studs.stop_sims()
+
+
+
+
