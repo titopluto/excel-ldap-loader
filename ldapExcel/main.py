@@ -65,7 +65,7 @@ class LdapExcel():
 
     def connect(self):
         '''
-        method use to make a connection to the LDAP serve
+        method use to make a connection to the LDAP server
 
         :return: None
         '''
