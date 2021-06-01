@@ -4,5 +4,5 @@ coverage==4.4.2
 idna==2.6
 pyldap==2.4.37
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
 xlrd==1.1.0
